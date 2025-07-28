@@ -1,1 +1,1 @@
-This I s git
+This I s global information tracker
